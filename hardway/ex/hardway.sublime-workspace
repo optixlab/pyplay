@@ -1,0 +1,280 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"break",
+				"break_words"
+			],
+			[
+				"print_a",
+				"print_a_line"
+			],
+			[
+				"am",
+				"amount_of_crackers"
+			],
+			[
+				"ch",
+				"cheese_and_crackers"
+			],
+			[
+				"chee",
+				"cheese_and_crackers"
+			],
+			[
+				"che",
+				"cheese_and_crackers"
+			],
+			[
+				"box",
+				"boxes_of_crackers"
+			],
+			[
+				"ex",
+				"exists"
+			],
+			[
+				"to",
+				"to_file"
+			],
+			[
+				"f",
+				"from_file"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 260.0,
+		"selected_items":
+		[
+			[
+				"set syntax:re",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"markd",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"mar",
+				"Set Syntax: Markdown"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"snip",
+				"Snippet: if"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"package control:",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 562.0
+	},
+	"console":
+	{
+		"height": 378.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/yashroff/Dropbox/share/code/play/python/hardway/ex/ex37.py",
+		"/C/Users/yashroff/Dropbox/share/code/play/python/hardway/ex/copied.rst",
+		"/C/Users/yashroff/Dropbox/share/code/play/python/hardway/ex/ex39.py",
+		"/C/Users/yashroff/Dropbox/share/code/play/python/hardway/ex/ex40.py",
+		"/C/Users/yashroff/Dropbox/share/code/play/python/hardway/ex/ex35.py",
+		"/C/Users/yashroff/Dropbox/share/code/play/python/hardway/ex/ex34.py",
+		"/C/Users/yashroff/Dropbox/share/code/play/python/hardway/ex/ex33.py",
+		"/C/Users/yashroff/Dropbox/share/code/play/python/hardway/ex/ex21.py",
+		"/C/Users/yashroff/Dropbox/share/code/play/python/hardway/ex/ex25.py",
+		"/C/Python27/Scripts/pydoc.bat",
+		"/C/Users/yashroff/Dropbox/share/code/play/python/hardway/ex/hardway.sublime-project",
+		"/C/Users/yashroff/Dropbox/share/code/videos/coursera/webintelligence/hw3/hw3_instr_prog_assignment.md",
+		"/C/Users/yashroff/Dropbox/share/code/videos/coursera/.codeintel/config",
+		"/C/Users/yashroff/Dropbox/share/Programs/Sublime Text 2.0 x64/Data/Packages/User/Pylinter.sublime-settings",
+		"/C/Users/yashroff/Dropbox/share/Programs/Sublime Text 2.0 x64/Data/Packages/User/Preferences.sublime-settings",
+		"/C/Users/yashroff/Dropbox/share/Programs/Sublime Text 2.0 x64/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/yashroff/Dropbox/share/code/videos/coursera/webintelligence/hw3/hw3data/c0001",
+		"/C/Users/yashroff/Dropbox/share/code/videos/coursera/webintelligence/hw2/tweets.txt",
+		"/C/Users/yashroff/Dropbox/share/code/videos/lynda/sublime/Sublime Notes.md",
+		"/C/Users/yashroff/Dropbox/share/Programs/Sublime Text 2.0 x64/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/yashroff/Dropbox/share/code/videos/coursera/webintelligence/hw3/test.html",
+		"/C/Users/yashroff/Dropbox/share/Programs/Sublime Text 2.0 x64/Data/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/Users/yashroff/Dropbox/share/code/videos/coursera/webintelligence/hw3/stopwords.py",
+		"/C/Users/yashroff/Dropbox/share/Programs/Sublime Text 2.0 x64/Data/Packages/LineEndings/LineEndings.sublime-settings",
+		"/C/Users/yashroff/Dropbox/share/Programs/Sublime Text 2.0 x64/Data/Packages/User/LineEndings.sublime-settings",
+		"/C/Users/yashroff/Dropbox/share/Programs/Sublime Text 2.0 x64/Data/Packages/Default/Default (Windows).sublime-keymap"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lint.py",
+			"markdown",
+			"\n",
+			"2000",
+			"	"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" "
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 191.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"copied.txt"
+			],
+			[
+				"ex35",
+				"ex35.py"
+			],
+			[
+				"ex26",
+				"ex26.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 135.0,
+	"status_bar_visible": true
+}
